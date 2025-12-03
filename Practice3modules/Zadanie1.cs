@@ -61,6 +61,8 @@ namespace Practice3modules
                 }
             }
             while (answer != number);
+            Console.ReadKey();
         }
+  
     }
 }
